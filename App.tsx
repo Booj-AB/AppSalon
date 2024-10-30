@@ -65,7 +65,6 @@ function App(): React.JSX.Element {
   return (
     <SafeAreaView style={backgroundStyle}>
         Hi I'm abdelahdi  , How Are You ?? 
-        
     </SafeAreaView>
   );
 }
